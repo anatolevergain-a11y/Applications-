@@ -1,0 +1,18 @@
+{
+  "name": "Ski alpin 3D",
+  "short_name": "SkiAlpin3D",
+  "description": "Un jeu de ski 3D infini où vous contrôlez un personnage cubique pour esquiver des obstacles sur la piste !",
+  "start_url": "/Applications-/",
+  "display": "fullscreen",
+  "background_color": "#87CEEB",
+  "theme_color": "#2C3E50",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
