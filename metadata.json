@@ -1,0 +1,6 @@
+{
+  "name": "Sommet Blanc - Ski Alpin 3D",
+  "description": "Jeu de ski alpin 3D palpitant avec niveaux à difficulté croissante, pistes variées, obstacles aléatoires, sauts, figures et slalom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
